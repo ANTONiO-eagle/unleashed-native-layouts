@@ -1,0 +1,2 @@
+# SHA-256 for files in this repository
+dc19fe6023dd3e493ad21236a299e1cae2c1874a72d39e3e43b6ae7d551bd0dd  hybridus-module2-native-layouts-source.zip
