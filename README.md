@@ -24,3 +24,7 @@ The feature was discussed in [DarkFlippers/unleashed-firmware issue #1218](https
 ## License and status
 
 The source kit contains its GPL-3.0 license and notices. It is an unaffiliated, experimental candidate. No firmware binary, VGM files, or installation instructions are distributed here.
+
+## Upstream outcome
+
+A separately prepared implementation of `DUCKY_LANG` was merged into Unleashed `dev` in [PR #1224](https://github.com/DarkFlippers/unleashed-firmware/pull/1224) ([merge commit `690af3d`](https://github.com/DarkFlippers/unleashed-firmware/commit/690af3d02bd5bc2e285ee509b9cdd78483aa9a92)). This repository remains a historical API 88.26 source kit; it is not the merged diff or a shipping release. The merge covers per-script selection of native `.kl` layouts; it does not add a new saved default or Unicode support. Check the upstream releases separately for stable availability.
