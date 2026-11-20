@@ -2,7 +2,7 @@
 
 This repository separates two related but **not interchangeable** items:
 
-1. A GPL-3.0 source kit for an experimental Bad USB per-script native `.kl` layout feature, based on Unleashed `unlshd-095` (`9c6327764c18fc8376b5941aa8bde79fe681fe8f`). It is a candidate, not an upstream pull request or official Unleashed release.
+1. A GPL-3.0 source kit for an experimental Bad USB per-script native `.kl` layout feature, based on Unleashed `unlshd-095` (`9c6327764c18fc8376b5941aa8bde79fe681fe8f`). It is a historical candidate, not the merged upstream pull request or an official Unleashed release.
 2. A measured size comparison of two F7 firmware payloads. The comparison is descriptive only; it does **not** isolate the savings caused by LTO or any individual code change.
 
 ## Source kit
@@ -19,7 +19,7 @@ See [`firmware-payload-comparison.md`](firmware-payload-comparison.md) for the m
 
 ## Upstream discussion
 
-The feature was discussed in [DarkFlippers/unleashed-firmware issue #1218](https://github.com/DarkFlippers/unleashed-firmware/issues/1218). No pull request is included or implied by this repository.
+The feature was discussed in [DarkFlippers/unleashed-firmware issue #1218](https://github.com/DarkFlippers/unleashed-firmware/issues/1218). See the upstream outcome below for the separately submitted implementation.
 
 ## License and status
 
